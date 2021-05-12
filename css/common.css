@@ -1,0 +1,8 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,li,ol,dl,dd,fieldset,legend,button,input,textarea,th,td{padding: 0;margin: 0;}
+.clear:after{content:"";display:block;clear: both;height: 0;visibility: hidden;overflow: hidden;}
+.clear{zoom: 1;}
+li{list-style: none;}
+a{text-decoration: none;}
+img{vertical-align: top;border: 0;}
+input,select,button,textarea{outline: none;}
+textarea{resize: none;}
